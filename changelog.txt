@@ -1,1 +1,2 @@
 -dodałem jedną linijkę
+-dodałem kolejną linijkę
