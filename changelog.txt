@@ -1,3 +1,4 @@
+-dodałem gałąź dev
 -dodałem jedną linijkę
 -dodałem kolejną linijkę
 -dodałem nowy plik
