@@ -1,3 +1,4 @@
+-dodałem plik new4 w nowej wersji
 -dodałem gałąź dev
 -dodałem jedną linijkę
 -dodałem kolejną linijkę
