@@ -1,2 +1,3 @@
 nowa treść w gałęzi master
 Nowy 2
+gałąź dev
